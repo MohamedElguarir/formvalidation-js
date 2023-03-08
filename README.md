@@ -1,2 +1,1 @@
-# web-project-01
- the first web dev project.
+basic form validation using JavaScript.
