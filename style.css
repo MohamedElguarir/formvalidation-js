@@ -53,3 +53,9 @@ form {
   color: white;
   transition: 0.3s;
 }
+
+.form-errors {
+  color: red;
+  display: none;
+
+}
